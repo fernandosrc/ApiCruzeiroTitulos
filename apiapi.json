@@ -1,0 +1,29 @@
+{
+    "titulosNacionais": [
+      {
+        "id": 1,
+        "nome": "Copa do Brasil",
+        "qtd": "6",
+        "Anos": "1993, 1996, 2000, 2003, 2017, 2018"
+      },
+      {
+        "id": 4,
+        "nome": "Campeonato Brasileiro Serie A",
+        "qtd":"4",
+        "Anos": "1966, 2003, 2013, 2014"
+      },
+      {
+        "id": 7,
+        "nome": "Copa Sul-Minas",
+        "qtd": "2",
+        "Anos": " 2001, 2002"
+      },
+      {
+        "id": 8,
+        "nome": "Copa Centro-Oeste",
+        "qtd": "1",
+        "Anos": "1999"
+      }
+    ]
+  }
+  

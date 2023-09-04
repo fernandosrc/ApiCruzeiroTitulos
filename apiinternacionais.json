@@ -1,0 +1,35 @@
+{
+    "titulosInternacionais": [
+      {
+        "id": 1,
+        "nome": "Copa Libertadores",
+        "qtd": "2",
+        "Anos": "1976, 1997"
+      },
+      {
+        "id": 2,
+        "nome": "Recopa Sul-Americana",
+        "qtd": "1",
+        "Anos": "1998"
+      },
+      {
+        "id": 3,
+        "nome": "Supercopa dos Campeões da Libertadores da América",
+        "qtd": "2",
+        "Anos": "1991, 1992"
+      },
+      {
+        "id": 4,
+        "nome": "Copa Ouro",
+        "qtd": "1",
+        "Anos": "1995"
+      },
+      {
+        "id": 5,
+        "nome": "Copa Master da Supercopa",
+        "qtd": "1",
+        "Anos": "1995"
+      }
+    ]
+  }
+  
